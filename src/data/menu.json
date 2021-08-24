@@ -1,0 +1,120 @@
+[
+    {
+      "id": 0,
+      "name": "Carbonara",
+      "image": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-articleLarge-v2.jpg",
+      "category": "mains",
+      "label": "Fat",
+      "price": "7.99",
+      "description": "Pasta with Guanciale (a kind of bacon), Pecorino (sheep cheese), Pepper, Salt and Eggs.",
+      "comments": [
+        {
+          "id": 0,
+          "rating": 5,
+          "comment": "Wow! One of the best pasta I ever had!",
+          "author": "Tobia De Angelis",
+          "date": "2020-10-16T17:57:28.556094Z"
+        },
+        {
+          "id": 1,
+          "rating": 5,
+          "comment": "Awesome!",
+          "author": "Diego Banovaz",
+          "date": "2020-10-16T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Amatriciana",
+      "image": "https://assets.tmecosys.cn/image/upload/t_web767x639/img/recipe/ras/Assets/31631B9E-CEAE-4872-B5BE-2E43B6C2EC58/Derivates/BA65D785-D807-4DA7-8D83-54E56562F52B.jpg",
+      "category": "mains",
+      "label": "Spicy",
+      "price": "6.99",
+      "description": "Pasta with Guanciale (a kind of bacon), Pecorino (sheep cheese), Pepper, Salt and tomato sauce.",
+      "comments": [
+        {
+          "id": 0,
+          "rating": 4,
+          "comment": "Great Pasta... but the original recipe is not spicy!",
+          "author": "Tobia De Angelis",
+          "date": "2020-10-16T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Cacio & Pepe",
+      "image": "https://assets.bonappetit.com/photos/57afff371b33404414976059/16:9/w_1280,c_limit/cacio-e-pepe.jpg",
+      "category": "mains",
+      "label": "Cheesy",
+      "price": "7.99",
+      "description": "Pasta with Pecorino (sheep cheese), Pepper, Salt and Parmigiano Reggiano.",
+      "comments": [
+        {
+          "id": 0,
+          "rating": 5,
+          "comment": "Fat is good!",
+          "author": "Tobia De Angelis",
+          "date": "2020-10-16T17:57:28.556094Z"
+        },
+        {
+          "id": 1,
+          "rating": 5,
+          "comment": "Creamy and somehow salty! Love it!",
+          "author": "Diego Banovaz",
+          "date": "2020-10-16T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Gricia",
+      "image": "https://www.giallozafferano.com/images/228-22820/pasta-alla-gricia-spaghetti-with-cured-pork-jowl_1200x800.jpg",
+      "category": "mains",
+      "label": "Fat+",
+      "price": "8.99",
+      "description": "Pasta with Guanciale (a kind of bacon), Pecorino (sheep cheese), Pepper, Salt. Somehow a Carbonara w/o Eggs.",
+      "comments": [
+        {
+          "id": 0,
+          "rating": 1,
+          "comment": "Please call a medic, I'm having an heart attack!",
+          "author": "Tobia De Angelis",
+          "date": "2020-10-16T17:57:28.556094Z"
+        },
+        {
+          "id": 1,
+          "rating": 2,
+          "comment": "Please kill me! Grease, grease everywhere!!",
+          "author": "Diego Banovaz",
+          "date": "2020-10-16T17:57:28.556094Z"
+        },
+        {
+          "id": 2,
+          "rating": 5,
+          "comment": "More! I Need More!",
+          "author": "Stefano Casasola",
+          "date": "2020-10-16T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Scogliera",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/18/2d/d1/e0/img-20190701-wa0019-largejpg.jpg",
+      "category": "seafood",
+      "label": "Summer",
+      "price": "7.99",
+      "description": "Pasta with fresh seafood of every kind",
+      "comments": [
+        {
+          "id": 0,
+          "rating": 5,
+          "comment": "Wow! One of the best pasta I ever had!",
+          "author": "Tobia De Angelis",
+          "date": "2020-10-16T17:57:28.556094Z"
+        }
+      ]
+    }
+  ]
